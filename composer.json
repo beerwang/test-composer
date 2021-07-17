@@ -1,0 +1,10 @@
+{
+    "name": "beerwang/test-composer",
+    "authors": [
+        {
+            "name": "王传建",
+            "email": "wangcj@gxnews.com.cn"
+        }
+    ],
+    "require": {}
+}
